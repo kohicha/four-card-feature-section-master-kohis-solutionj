@@ -1,0 +1,20 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/utilities";
+
+@import "tailwindcss/components";
+
+@font-face {
+    font-family: PoppinsRegular;
+    src: url('design/Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: PoppinsExtraLight;
+    src: url('design/Poppins-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: PoppinsSemiBold;
+    src: url('design/Poppins-SemiBold.ttf') format('truetype');
+}
